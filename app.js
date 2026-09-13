@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const translations = {
     en: {
       metaTitle: "Saurabh Patil | Associate Solution Architect",
-      metaDescription: "Portfolio of Saurabh Patil: Associate Solution Architect and React & Node.js Specialist with 4+ years of experience building and scaling mission-critical web applications.",
+      metaDescription: "Portfolio of Saurabh Patil, an Associate Solution Architect and Full-Stack Engineer with 5+ years of experience modernizing enterprise applications with React, Node.js, PHP, MySQL, and AWS.",
       canonicalUrl: "https://saurabh374.github.io/",
       ogLocale: "en_US",
 
@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       heroPill: "Associate Solution Architect • Full-Stack Engineer",
       heroSubtitle: "Associate Solution Architect • Nagpur, MH, India",
-      heroLead: "Dedicated Associate Solution Architect & Full-Stack Engineer with 4+ years of experience designing, building, and scaling mission-critical web applications and APIs. Expert in React, Next.js, Node.js, PHP, and AWS. Spearheaded the architectural migration of SimpleWorks CRM from PHP to React, boosting page-loads by 30% and cutting API latency by 40%, while strengthening security and developer productivity.",
+      heroLead: "Associate Solution Architect and Full-Stack Engineer with 5+ years of experience building and modernizing enterprise web applications using React.js, Node.js, PHP, MySQL, and AWS. My work spans application architecture, API and database design, performance optimization, CI/CD, production deployment, and developer mentoring.",
 
       quickContact: "Contact",
       quickProjects: "Projects",
@@ -128,8 +128,8 @@ document.addEventListener("DOMContentLoaded", () => {
       resumeLink: "Resume",
 
       kpiExp: "Years Experience",
-      kpiProjects: "Projects Delivered",
-      kpiMigration: "System Migrated",
+      kpiProjects: "Cloud Certifications",
+      kpiMigration: "CRM Modernized",
 
       focusTitle: "Focus",
       focus1: "High-performance React & Next.js user interfaces",
@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
       focus3: "DevOps containerization, Nginx routing & AWS cloud hosting",
 
       profileTitle: "Associate Solution Architect Profile",
-      profileText: "I am an Associate Solution Architect with 4+ years of experience designing, building, and scaling mission-critical web applications and APIs. I have a proven track record of transitioning legacy PHP monoliths into decoupled, event-driven microservices using React, Node.js, and AWS. My expertise lies in designing secure Backend-for-Frontend (BFF) layers, optimizing database query latency, and setting up automated CI/CD pipelines to streamline deployment workflows.",
+      profileText: "I design application architecture for enterprise CRM and web platforms and translate business requirements into technical designs, API contracts, database schemas, proofs of concept, and implementation plans. My hands-on background includes modernizing legacy PHP systems with React and Node.js, improving data access with Redis and MySQL optimization, and supporting production delivery on AWS.",
 
       strengthsTitle: "Strengths",
       strength1: "Migration & Scalability: Experience refactoring legacy code into decoupled microservices.",
@@ -164,19 +164,19 @@ document.addEventListener("DOMContentLoaded", () => {
       gtaDesc: "A visually striking, SEO-optimized landing page for GTA VI built with Next.js and React. Features pixel-perfect responsive layouts, lazy-loaded assets, and performant animations to engage fans.",
       gta1: "Next.js & React Framework structure",
       gta2: "Pixel-perfect layouts & lazy-loaded assets",
-      gta3: "Performant CSS animations & high SEO scores",
+      gta3: "Performant CSS animations & SEO-oriented structure",
       
       chatifyDesc: "Full-featured chat app built with Next.js, Node.js, Express, and MongoDB microservices. Enables real-time messaging, typing indicators, presence status with Socket.IO, OTP-based email auth, and image messaging.",
       chatify1: "Socket.IO real-time notification layer",
       chatify2: "RabbitMQ asynchronous message queues",
       chatify3: "Redis cache and JWT cookie authentication",
 
-      jyotishWebDesc: "Content-rich astrology platform using React, CodeIgniter, and AWS. Scaled to 10K+ monthly users with Redis-backed caching and CI/CD deployment pipelines.",
+      jyotishWebDesc: "Content-rich astrology platform built with React, CodeIgniter, MySQL, and AWS, with Redis-backed caching and production deployment support.",
       jyotishWeb1: "CodeIgniter PHP backend framework",
       jyotishWeb2: "React single-page dashboard app",
       jyotishWeb3: "AWS EC2 hosting with CloudFront & Redis caching",
 
-      jyotishAppDesc: "Flutter-based mobile companion to the Jyotish Vishwakosh platform. Includes Firebase Authentication, push notifications, and real-time updates with less than 2% crash rate post-launch.",
+      jyotishAppDesc: "Flutter-based mobile companion to the Jyotish Vishwakosh platform, with Firebase Authentication, push notifications, and application updates.",
       jyotishApp1: "Flutter Android & iOS framework compatibility",
       jyotishApp2: "Firebase authentication and remote analytics config",
       jyotishApp3: "FCM Push Notification integration",
@@ -185,26 +185,26 @@ document.addEventListener("DOMContentLoaded", () => {
       expSimpleWorksWhen: "Apr 2022 – Present",
       expSimpleWorksTitle: "SimpleWorks",
       expAsaRoleTitle: "Associate Solution Architect",
-      expAsaWhenRole: "Apr 2024 – Present • Nagpur, Hybrid",
-      expAsaBullet1: "Led migration of 75% of SimpleWorks CRM modules from PHP/Smarty to React, cutting load times by 30% and API latency by 40%.",
-      expAsaBullet2: "Architected Node.js microservices with Redis caching and WebSockets, enabling real-time updates and improving scalability.",
-      expAsaBullet3: "Strengthened security by implementing BFF (Backend-for-Frontend) architecture, AES-GCM encryption, and secure cookies.",
-      expAsaBullet4: "Partnered with project/design teams to re-engineer workflows, directly contributing to a 30% sales increase (validated via analytics/A-B testing).",
+      expAsaWhenRole: "Dec 2025 – Present • Nagpur",
+      expAsaBullet1: "Design application architecture for enterprise CRM and web platforms, defining component boundaries, integrations, data flows, and deployment approaches.",
+      expAsaBullet2: "Translate business requirements into technical designs, API contracts, database schemas, proofs of concept, and implementation plans.",
+      expAsaBullet3: "Guide decisions involving API design, database modeling, performance, reliability, security, and deployment.",
+      expAsaBullet4: "Mentor developers and collaborate with product, engineering, and QA teams through delivery.",
       expSeRoleTitle: "Software Engineer",
-      expSeWhenRole: "Apr 2022 – Apr 2024 • Nagpur, On-site",
-      expSeBullet1: "Improved DevOps by containerizing services, migrating from Apache to Nginx, and building CI/CD pipelines with AWS + Sentry, reducing deployment times by 25%.",
-      expSeBullet2: "Expanded Playwright test suite to 60% of React modules, reducing regression bugs and boosting release confidence.",
-      expSeBullet3: "Provided L2/L3 production support, resolving escalated issues and assisting senior stakeholders during critical incidents.",
+      expSeWhenRole: "Apr 2022 – Nov 2025 • Nagpur",
+      expSeBullet1: "Led modernization of more than 70% of a legacy PHP/Smarty CRM using React.js and Node.js, separating presentation, API, and business-logic layers.",
+      expSeBullet2: "Improved CRM workflows through Redis caching, targeted MySQL indexing, and query and aggregation optimization.",
+      expSeBullet3: "Designed operational REST APIs, introduced Docker and GitHub Actions CI/CD, supported AWS deployments, and mentored junior developers.",
 
-      expFreelanceWhen: "Feb 2020 – Apr 2021",
+      expFreelanceWhen: "Feb 2020 – Oct 2021",
       expFreelanceTitle: "Freelance Software Engineer • Whiteboard Software",
       expFreelanceRole: "Legacy Migrations & Mobile Development",
-      expFreelanceBullet1: "Developed custom CodeIgniter applications, migrating databases and refactoring routes.",
-      expFreelanceBullet2: "Built the Jyotish Vishwakosh web platform, serving 10,000+ monthly users.",
-      expFreelanceBullet3: "Coded a companion mobile application in Flutter with Firebase Authentication.",
+      expFreelanceBullet1: "Delivered full-stack features for Jyotish Vishwakosh across web and mobile applications.",
+      expFreelanceBullet2: "Built React.js modules and CodeIgniter APIs backed by MySQL and AWS.",
+      expFreelanceBullet3: "Developed Flutter and Firebase integrations and supported deployment and production operation.",
 
       educationTitle: "Education & Timeline",
-      eduMcaWhen: "Feb 2021 – Jun 2022",
+      eduMcaWhen: "Sep 2020 – Jun 2022",
       eduMcaSchool: "Shri Ramdeobaba College of Engineering & Management, Nagpur",
       eduMcaDegree: "MCA (Master of Computer Applications) • CGPA: 8.6 / 10",
       eduMcaBullet1: "Specialized in full-stack web architectures, distributed systems, and database optimization.",
@@ -224,7 +224,7 @@ document.addEventListener("DOMContentLoaded", () => {
       viewCert: "View Certificate",
 
       contactTitle: "Get in Touch",
-      contactIntro: "I am open to discuss freelance opportunities, technical challenges, or software engineering positions.",
+      contactIntro: "I am open to senior full-stack, technical lead, and solution architecture opportunities involving application modernization and cloud delivery.",
       linksTitle: "Links & Info",
       emailLink: "Send Email",
       contactPhoneKey: "Phone",
@@ -264,7 +264,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     hi: {
       metaTitle: "सौरभ पाटिल | एसोसिएट सॉल्यूशन आर्किटेक्ट",
-      metaDescription: "सौरभ पाटिल का पोर्टफोलियो: 4+ वर्षों के अनुभव के साथ एसोसिएट सॉल्यूशन आर्किटेक्ट और React व Node.js विशेषज्ञ।",
+      metaDescription: "सौरभ पाटिल का पोर्टफोलियो: 5+ वर्षों के अनुभव वाले एसोसिएट सॉल्यूशन आर्किटेक्ट और फुल-स्टैक इंजीनियर।",
       canonicalUrl: "https://saurabh374.github.io/?lang=hi",
       ogLocale: "hi_IN",
 
@@ -289,7 +289,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       heroPill: "एसोसिएट सॉल्यूशन आर्किटेक्ट • फुल-स्टैक इंजीनियर",
       heroSubtitle: "एसोसिएट सॉल्यूशन आर्किटेक्ट • नागपुर, भारत",
-      heroLead: "4+ वर्षों के अनुभव के साथ समर्पित एसोसिएट सॉल्यूशन आर्किटेक्ट और फुल-स्टैक इंजीनियर, जो वेब ऐप्स और एपीआई बनाने और स्केल करने में माहिर हैं। React, Next.js, Node.js, PHP और AWS के विशेषज्ञ। SimpleWorks CRM के PHP से React में बड़े पैमाने पर माइग्रेशन का नेतृत्व किया, जिससे पेज लोड 30% बढ़ा और एपीआई लेटेंसी 40% कम हुई, साथ ही सुरक्षा और डेवलपर उत्पादकता को मजबूत किया।",
+      heroLead: "5+ वर्षों के अनुभव के साथ एसोसिएट सॉल्यूशन आर्किटेक्ट और फुल-स्टैक इंजीनियर। React.js, Node.js, PHP, MySQL और AWS के साथ एंटरप्राइज वेब एप्लिकेशन बनाना और आधुनिक बनाना मेरा मुख्य कार्य है।",
 
       quickContact: "संपर्क",
       quickProjects: "परियोजनाएं",
@@ -297,8 +297,8 @@ document.addEventListener("DOMContentLoaded", () => {
       resumeLink: "बायोडाटा",
 
       kpiExp: "वर्षों का अनुभव",
-      kpiProjects: "पूरी की गई परियोजनाएं",
-      kpiMigration: "सिस्टम माइग्रेट किया गया",
+      kpiProjects: "क्लाउड प्रमाणपत्र",
+      kpiMigration: "CRM आधुनिकीकरण",
 
       focusTitle: "मुख्य फोकस",
       focus1: "उच्च प्रदर्शन वाले React और Next.js यूजर इंटरफेस",
@@ -306,7 +306,7 @@ document.addEventListener("DOMContentLoaded", () => {
       focus3: "DevOps कंटेनराइजेशन, Nginx राउटिंग और AWS क्लाउड होस्टिंग",
 
       profileTitle: "एसोसिएट सॉल्यूशन आर्किटेक्ट प्रोफ़ाइल",
-      profileText: "मैं एक एसोसिएट सॉल्यूशन आर्किटेक्ट हूं, जिसे 4 से अधिक वर्षों का व्यावहारिक अनुभव है। मेरे पास React, Node.js और AWS का उपयोग करके लीगेसी PHP मोनोलिथ को डीकपल्ड, इवेंट-ड्रिवन माइक्रोसर्विसेज में स्थानांतरित करने का एक सिद्ध ट्रैक रिकॉर्ड है। मेरी विशेषज्ञता सुरक्षित बैकएंड-फॉर-फ्रंटएंड (BFF) परतों को डिजाइन करने, डेटाबेस क्वेरी लेटेंसी को अनुकूलित करने और परिनियोजन वर्कफ़्लू को सुव्यवस्थित करने के लिए स्वचालित CI/CD पाइपलाइनों को स्थापित करने में है।",
+      profileText: "मैं एंटरप्राइज CRM और वेब प्लेटफॉर्म के लिए एप्लिकेशन आर्किटेक्चर डिजाइन करता हूं और व्यावसायिक आवश्यकताओं को तकनीकी डिजाइन, API कॉन्ट्रैक्ट, डेटाबेस स्कीमा और कार्यान्वयन योजनाओं में बदलता हूं। मेरा व्यावहारिक अनुभव React और Node.js के साथ लीगेसी PHP सिस्टम के आधुनिकीकरण, Redis और MySQL ऑप्टिमाइजेशन तथा AWS डिलीवरी में है।",
 
       strengthsTitle: "मेरी ताकत",
       strength1: "माइग्रेशन और स्केलेबिलिटी: लीगेसी कोड को डीकपल्ड माइक्रोसर्विसेज में रिफैक्टर करने का अनुभव।",
@@ -333,19 +333,19 @@ document.addEventListener("DOMContentLoaded", () => {
       gtaDesc: "Next.js और React के साथ बनाई गई GTA VI के लिए एक आकर्षक, SEO-अनुकूलित लैंडिंग पेज। प्रशंसकों को आकर्षित करने के लिए रिस्पॉन्सिव लेआउट, लेजी-लोडेड एसेट्स और एनिमेशन शामिल हैं।",
       gta1: "Next.js और React फ्रेमवर्क संरचना",
       gta2: "सटीक लेआउट और लेजी-लोडेड एसेट्स",
-      gta3: "बेहतरीन CSS एनिमेशन और उच्च SEO स्कोर",
+      gta3: "बेहतरीन CSS एनिमेशन और SEO-अनुकूल संरचना",
 
       chatifyDesc: "Next.js, Node.js, Express और MongoDB माइक्रोसर्विसेज के साथ निर्मित रियल-टाइम चैट ऐप। Socket.IO के साथ संदेश भेजने, टाइपिंग इंडिकेटर्स, उपस्थिति स्थिति और OTP आधारित प्रमाणीकरण की सुविधा है।",
       chatify1: "Socket.IO रियल-टाइम नोटिफिकेशन परत",
       chatify2: "RabbitMQ एसिंक्रोनस संदेश कतार",
       chatify3: "Redis कैश और JWT कुकी प्रमाणीकरण",
 
-      jyotishWebDesc: "React, CodeIgniter और AWS का उपयोग करने वाला ज्योतिष मंच। Redis-समर्थित कैशिंग और CI/CD परिनियोजन पाइपलाइनों के साथ 10K+ मासिक उपयोगकर्ताओं तक बढ़ाया गया।",
+      jyotishWebDesc: "React, CodeIgniter, MySQL और AWS पर निर्मित ज्योतिष मंच, जिसमें Redis कैशिंग और प्रोडक्शन डिप्लॉयमेंट सपोर्ट शामिल है।",
       jyotishWeb1: "CodeIgniter PHP बैकएंड फ्रेमवर्क",
       jyotishWeb2: "React सिंगल-पेज डैशबोर्ड ऐप",
       jyotishWeb3: "AWS EC2 होस्टिंग CloudFront और Redis के साथ",
 
-      jyotishAppDesc: "ज्योतिष मंच का फ्लटर-आधारित मोबाइल साथी। इसमें फायरबेस प्रमाणीकरण, पुश नोटिफिकेशन और रीयल-टाइम अपडेट शामिल हैं, जिसमें 2% से कम क्रैश दर है।",
+      jyotishAppDesc: "ज्योतिष मंच का Flutter-आधारित मोबाइल ऐप, जिसमें Firebase प्रमाणीकरण, पुश नोटिफिकेशन और एप्लिकेशन अपडेट शामिल हैं।",
       jyotishApp1: "फ्लटर एंड्रॉइड और iOS अनुकूलता",
       jyotishApp2: "फायरबेस प्रमाणीकरण और रिमोट एनालिटिक्स",
       jyotishApp3: "FCM पुश नोटिफिकेशन एकीकरण",
@@ -354,27 +354,27 @@ document.addEventListener("DOMContentLoaded", () => {
       expSimpleWorksWhen: "अप्रैल 2022 – वर्तमान",
       expSimpleWorksTitle: "SimpleWorks",
       expAsaRoleTitle: "एसोसिएट सॉल्यूशन आर्किटेक्ट",
-      expAsaWhenRole: "अप्रैल 2024 – वर्तमान • नागपुर, हाइब्रिड",
-      expAsaBullet1: "PHP/Smarty से React में 75% SimpleWorks CRM मॉड्यूल के माइग्रेशन का नेतृत्व किया, जिससे लोड समय 30% और एपीआई लेटेंसी 40% कम हुई।",
-      expAsaBullet2: "Redis कैशिंग और WebSockets के साथ Node.js माइक्रोसर्विसेज को आर्किटेक्ट किया, जिससे वास्तविक समय अपडेट सक्षम हुए और स्केलेबिलिटी में सुधार हुआ।",
-      expAsaBullet3: "BFF (बैकएंड-फॉर-फ्रंटएंड) आर्किटेक्चर, AES-GCM एन्क्रिप्शन और सुरक्षित कुकीज़ लागू करके सुरक्षा को मजबूत किया।",
-      expAsaBullet4: "वर्कफ़्लोज़ को फिर से इंजीनियर करने के लिए प्रोजेक्ट/डिज़ाइन टीमों के साथ भागीदारी की, जिससे बिक्री में 30% की वृद्धि हुई (एनालिटिक्स/ए-बी परीक्षण के माध्यम से सत्यापित)।",
+      expAsaWhenRole: "दिसंबर 2025 – वर्तमान • नागपुर",
+      expAsaBullet1: "एंटरप्राइज CRM और वेब प्लेटफॉर्म के लिए एप्लिकेशन आर्किटेक्चर, कंपोनेंट सीमाएं, इंटीग्रेशन, डेटा फ्लो और डिप्लॉयमेंट दृष्टिकोण डिजाइन करता हूं।",
+      expAsaBullet2: "व्यावसायिक आवश्यकताओं को तकनीकी डिजाइन, API कॉन्ट्रैक्ट, डेटाबेस स्कीमा, POC और कार्यान्वयन योजनाओं में बदलता हूं।",
+      expAsaBullet3: "API डिजाइन, डेटाबेस मॉडलिंग, प्रदर्शन, विश्वसनीयता, सुरक्षा और डिप्लॉयमेंट निर्णयों का मार्गदर्शन करता हूं।",
+      expAsaBullet4: "डेवलपर्स को मार्गदर्शन देता हूं और उत्पाद, इंजीनियरिंग तथा QA टीमों के साथ काम करता हूं।",
       expSeRoleTitle: "सॉफ्टवेयर इंजीनियर",
-      expSeWhenRole: "अप्रैल 2022 – अप्रैल 2024 • नागपुर, ऑन-साइट",
-      expSeBullet1: "सेवाओं को कंटेनराइज़ करके, Apache से Nginx में माइग्रेट करके, और AWS + Sentry के साथ CI/CD पाइपलाइनों का निर्माण करके DevOps में सुधार किया, जिससे परिनियोजन समय में 25% की कमी आई।",
-      expSeBullet2: "React मॉड्यूल के 60% तक Playwright परीक्षण सूट का विस्तार किया, जिससे प्रतिगमन (regression) बग कम हुए और रिलीज का विश्वास बढ़ा।",
-      expSeBullet3: "L2/L3 उत्पादन सहायता प्रदान की, जटिल समस्याओं का समाधान किया और महत्वपूर्ण घटनाओं के दौरान वरिष्ठ हितधारकों की सहायता की।",
+      expSeWhenRole: "अप्रैल 2022 – नवंबर 2025 • नागपुर",
+      expSeBullet1: "React.js और Node.js के साथ लीगेसी PHP/Smarty CRM के 70% से अधिक हिस्से के आधुनिकीकरण का नेतृत्व किया।",
+      expSeBullet2: "Redis कैशिंग, MySQL इंडेक्सिंग और क्वेरी ऑप्टिमाइजेशन से CRM वर्कफ़्लो में सुधार किया।",
+      expSeBullet3: "REST API डिजाइन किए, Docker और GitHub Actions CI/CD शुरू किया, AWS डिप्लॉयमेंट सपोर्ट किया और जूनियर डेवलपर्स को मेंटर किया।",
 
 
-      expFreelanceWhen: "फरवरी 2020 – अप्रैल 2021",
+      expFreelanceWhen: "फरवरी 2020 – अक्टूबर 2021",
       expFreelanceTitle: "फ्रीलांस सॉफ्टवेयर इंजीनियर • Whiteboard Software",
       expFreelanceRole: "लीगेसी माइग्रेशन और मोबाइल डेवलपमेंट",
-      expFreelanceBullet1: "डेटाबेस को माइग्रेट करके और कोडइग्निटर में रूटों को रिफैक्टर करके कस्टम CodeIgniter ऐप्स विकसित किए।",
-      expFreelanceBullet2: "ज्योतिष विश्वकोश वेब प्लेटफॉर्म का निर्माण किया, जो प्रति माह 10,000+ सक्रिय उपयोगकर्ताओं को सेवा प्रदान करता है।",
-      expFreelanceBullet3: "फायरबेस ऑथेंटिकेशन के साथ फ्लटर में एक मोबाइल साथी एप्लिकेशन कोड किया।",
+      expFreelanceBullet1: "ज्योतिष विश्वकोष के वेब और मोबाइल एप्लिकेशन के लिए फुल-स्टैक फीचर बनाए।",
+      expFreelanceBullet2: "MySQL और AWS पर React.js मॉड्यूल तथा CodeIgniter API बनाए।",
+      expFreelanceBullet3: "Flutter और Firebase इंटीग्रेशन विकसित किए तथा डिप्लॉयमेंट और प्रोडक्शन सपोर्ट दिया।",
 
       educationTitle: "शिक्षा और समयरेखा",
-      eduMcaWhen: "फरवरी 2021 – जून 2022",
+      eduMcaWhen: "सितंबर 2020 – जून 2022",
       eduMcaSchool: "श्री रामदेवबाबा कॉलेज ऑफ इंजीनियरिंग एंड मैनेजमेंट, नागपुर",
       eduMcaDegree: "MCA (मास्टर ऑफ कंप्यूटर एप्लीकेशंस) • CGPA: 8.6 / 10",
       eduMcaBullet1: "फुल-स्टैक वेब आर्किटेक्चर, डिस्ट्रिब्यूटेड सिस्टम और डेटाबेस ऑप्टिमाइज़ेशन में विशेषज्ञता।",
@@ -394,7 +394,7 @@ document.addEventListener("DOMContentLoaded", () => {
       viewCert: "प्रमाण पत्र देखें",
 
       contactTitle: "संपर्क करें",
-      contactIntro: "मैं फ्रीलांस अवसरों, तकनीकी चुनौतियों या सॉफ्टवेयर इंजीनियरिंग पदों पर चर्चा करने के लिए तैयार हूं।",
+      contactIntro: "मैं एप्लिकेशन आधुनिकीकरण और क्लाउड डिलीवरी से जुड़ी सीनियर फुल-स्टैक, टेक्निकल लीड और सॉल्यूशन आर्किटेक्चर भूमिकाओं के लिए उपलब्ध हूं।",
       linksTitle: "लिंक और जानकारी",
       emailLink: "ईमेल भेजें",
       contactPhoneKey: "फ़ोन",
@@ -707,7 +707,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Print CV / PDF Action
-  if (printBtn) {
+  if (printBtn?.tagName === "BUTTON") {
     printBtn.addEventListener("click", () => {
       window.print();
     });
