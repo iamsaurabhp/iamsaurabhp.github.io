@@ -1999,13 +1999,12 @@ textarea.input {
 
 @media (max-width: 1000px) {
   .hero-inner {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: var(--s8);
   }
 
   .hero-right {
-    order: -1;
-    max-width: 500px;
+    max-width: none;
   }
 
   .grid.three {
@@ -2141,6 +2140,19 @@ textarea.input {
 
   .brand-text .role {
     display: none;
+  }
+
+  #themeBtn {
+    display: none;
+  }
+
+  .avatar {
+    width: 36px;
+    height: 36px;
+  }
+
+  .brand-text .name {
+    font-size: .95rem;
   }
 
   .actions {
