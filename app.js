@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
     en: {
       metaTitle: "Saurabh Patil | Associate Solution Architect",
       metaDescription: "Portfolio of Saurabh Patil, an Associate Solution Architect and Full-Stack Engineer with 5+ years of experience modernizing enterprise applications with React, Node.js, PHP, MySQL, and AWS.",
-      canonicalUrl: "https://saurabh374.github.io/",
+      canonicalUrl: "https://iamsaurabhp.github.io/",
       ogLocale: "en_US",
 
       skip: "Skip to content",
@@ -265,7 +265,7 @@ document.addEventListener("DOMContentLoaded", () => {
     hi: {
       metaTitle: "सौरभ पाटिल | एसोसिएट सॉल्यूशन आर्किटेक्ट",
       metaDescription: "सौरभ पाटिल का पोर्टफोलियो: 5+ वर्षों के अनुभव वाले एसोसिएट सॉल्यूशन आर्किटेक्ट और फुल-स्टैक इंजीनियर।",
-      canonicalUrl: "https://saurabh374.github.io/?lang=hi",
+      canonicalUrl: "https://iamsaurabhp.github.io/?lang=hi",
       ogLocale: "hi_IN",
 
       skip: "विषय पर जाएं",
